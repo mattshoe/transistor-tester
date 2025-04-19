@@ -103,7 +103,7 @@
 			(at 2.54 -4.27 0)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "058bdc12-5ce1-4edc-9829-edf76bd58726")
+			(uuid "e16d430b-fdd3-4070-b128-0e9516afc96a")
 			(effects
 				(font
 					(size 1 1)
@@ -115,7 +115,7 @@
 			(at 2.54 5.9 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "07ec0845-3031-43d4-bca8-9e131b8ef4d4")
+			(uuid "27f69107-1241-4ac7-b397-21d61053c23a")
 			(effects
 				(font
 					(size 1 1)
@@ -127,7 +127,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fa0e4fd2-f05f-41d0-8e7b-7e0e5f6f48df")
+			(uuid "6a439a04-059f-416f-ae5a-5e28184d4155")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -135,11 +135,11 @@
 				)
 			)
 		)
-		(property "Description" "Socket Terminal for TO-220 push-connect"
+		(property "Description" "Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ff837bf9-9618-4dd1-9a6e-cf6d013640fe")
+			(uuid "49fc1461-08f0-4cf9-b875-54032bcdf204")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -149,7 +149,7 @@
 		)
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/e8b59566-c8ba-4b65-a014-75e3e650dfe1")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "transistor-tester.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -434,7 +434,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/f134de97-8542-487d-a1ff-809e1f7a8eb9")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "transistor-tester.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -651,7 +651,7 @@
 			(at 2.25 -5.12 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "b9bc925b-df72-42d7-baf5-4605c73937e0")
+			(uuid "4c1b0900-06ab-46b6-aa26-4ebc8529e0cc")
 			(effects
 				(font
 					(size 1 1)
@@ -663,7 +663,7 @@
 			(at 2.25 4.92 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "28ed1271-e926-4a4e-8958-18eef5dc42e1")
+			(uuid "2565f4d4-5c9e-4df9-b700-626e9ac33a22")
 			(effects
 				(font
 					(size 1 1)
@@ -671,11 +671,11 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.amazon.com/dp/B07H5G7GC6?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_4"
+		(property "Datasheet" "https://www.amazon.com/dp/B09ZTFKYCK?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_2&th=1"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "968b13ac-2798-4a0f-9d77-65b29659c410")
+			(uuid "1c9f7b4b-bc58-4349-9d86-2ac3312bbba8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -687,7 +687,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4ae2cd48-ae71-4bca-b92e-aad45f517eda")
+			(uuid "cffbb2c3-179a-4e17-8a08-7af2433e67f2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -697,7 +697,7 @@
 		)
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/49613778-19e4-4793-b073-d913781333e8")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "transistor-tester.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -1232,7 +1232,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/12a850d1-8ea2-4b42-853c-0d05b5805ae6")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "transistor-tester.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -1449,7 +1449,7 @@
 			(at 2.54 -4.27 0)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "770ee812-4c68-4b16-acfd-88f9af405471")
+			(uuid "a8091e13-294c-4f2c-81c9-5be2331d73a9")
 			(effects
 				(font
 					(size 1 1)
@@ -1461,7 +1461,7 @@
 			(at 2.54 6.9 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c327a44b-4494-403e-a4b5-bbca19b64116")
+			(uuid "34de8448-5fa1-433c-88d3-a89391dff76a")
 			(effects
 				(font
 					(size 1 1)
@@ -1473,7 +1473,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3e6ec10a-910e-4382-a0ff-7215a2695218")
+			(uuid "53482429-30c8-46f0-8144-4bc601356c31")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1481,11 +1481,11 @@
 				)
 			)
 		)
-		(property "Description" "Socket Terminal for TO-220 push-connect"
+		(property "Description" "Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "628208be-fcd8-4841-b429-b1c7409572e2")
+			(uuid "c768e10a-da48-41f7-8929-a6f8d6be4271")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1495,7 +1495,7 @@
 		)
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/fd9a9ee1-3a6b-4851-8c76-5c54a54d027e")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "transistor-tester.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -1733,7 +1733,7 @@
 		(property "Reference" "D1"
 			(at 5.08 0.93 90)
 			(layer "B.SilkS")
-			(uuid "e808f2e5-fbe8-47a7-ba7e-3853cc8266f4")
+			(uuid "cc1c698c-54fd-4320-88ee-014489ebd3b2")
 			(effects
 				(font
 					(size 1 1)
@@ -1741,10 +1741,10 @@
 				)
 			)
 		)
-		(property "Value" "E-101"
+		(property "Value" "E-301"
 			(at 5.08 -0.73 90)
 			(layer "B.SilkS")
-			(uuid "8c901680-c88e-4aa9-a5aa-fd719c1c99f9")
+			(uuid "c014eec7-2e7e-40e1-bcad-c3d81b55c513")
 			(effects
 				(font
 					(size 1 1)
@@ -1752,12 +1752,12 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/Semitec/E-301?qs=wgO0AD0o1vvnCxICGY3ceQ%3D%3D"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9efc6005-1418-4df0-9c5d-84967efa8709")
+			(uuid "1b3fd73e-fa07-4bc9-b74a-f1654f00ea55")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1770,7 +1770,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a3b5e9f8-098b-42ee-a059-75f5a95cf419")
+			(uuid "eb8fbc76-6f34-4bc6-b08b-6cf09769a461")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1780,7 +1780,7 @@
 		)
 		(property ki_fp_filters "TO-???* D_*")
 		(path "/2a619818-f3de-4213-a382-be010773ccc7")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "transistor-tester.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -2081,7 +2081,7 @@
 			(at 2.54 -4.27 0)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "c58ab031-cfca-470b-a3bc-07411b457429")
+			(uuid "b393b79b-8537-444e-abe2-aa05054a9c3a")
 			(effects
 				(font
 					(size 1 1)
@@ -2093,7 +2093,7 @@
 			(at 2.74 6.7 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3719e63f-cecd-4be0-a61f-8e24cb803c92")
+			(uuid "0155924e-82de-44f0-ba8f-a9e542fbd2eb")
 			(effects
 				(font
 					(size 1 1)
@@ -2105,7 +2105,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7f689c9b-efeb-4085-92a2-adccfea08c43")
+			(uuid "7a3e88bc-8597-4d55-97c8-87e4214ce413")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2113,11 +2113,11 @@
 				)
 			)
 		)
-		(property "Description" "Socket Terminal for TO-220 push-connect"
+		(property "Description" "Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ae075549-c8fb-4872-9348-c5e658bee9c8")
+			(uuid "dc958d2e-eaa5-43fa-bc7e-ad9ae7948d19")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2127,7 +2127,7 @@
 		)
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/3476952d-59d7-408b-8aad-d1e323501dac")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "transistor-tester.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -2425,7 +2425,7 @@
 			(at 1.27 -2.96 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "878ea1fe-000b-405a-a743-d11d2ec0a956")
+			(uuid "d6b2d730-dbed-424a-9ac6-e0804d920803")
 			(effects
 				(font
 					(size 1 1)
@@ -2436,7 +2436,7 @@
 		(property "Value" "Hi Side LED"
 			(at 1.27 2.96 0)
 			(layer "F.Fab")
-			(uuid "f4618023-31f8-47bf-89a8-0f635c03ac6f")
+			(uuid "effaabd1-6a0e-402d-add0-002192aab3a1")
 			(effects
 				(font
 					(size 1 1)
@@ -2444,11 +2444,11 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.amazon.com/dp/B073QMYKDM?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_10"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "938b7bf4-54f6-456a-90fa-c8ab8511ff4c")
+			(uuid "a7ddbaa9-3c25-44f3-9b39-17a2409fcc71")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2460,7 +2460,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "508afe99-c21d-478d-8c2f-80cf95e2f825")
+			(uuid "9684514f-fc98-417b-aeb5-95708b79717c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2470,7 +2470,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/780acdab-b85e-4725-97a8-fe60791408c2")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "transistor-tester.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -2664,7 +2664,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "b26f9f03-1b4c-4bba-94d3-140947407da0")
+			(uuid "d7104c48-be53-46a7-b9cb-7bdd7c19b070")
 			(effects
 				(font
 					(size 1 1)
@@ -2677,7 +2677,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2d57010d-e6ab-43f4-ae38-cb14c9ecf838")
+			(uuid "9e91b0a6-ef6f-4b1d-b20c-74fb680452cb")
 			(effects
 				(font
 					(size 1 1)
@@ -2685,12 +2685,12 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.amazon.com/dp/B0CNLNTN5J?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1"
+		(property "Datasheet" "https://www.amazon.com/dp/B08R9P9DFC?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1&th=1"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8d0e1b8e-bd3c-495f-adea-47d610875f45")
+			(uuid "00978a60-8d90-4274-9f70-c1a9df226c1f")
 			(effects
 				(font
 					(size 1 1)
@@ -2703,7 +2703,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ff6bc934-3608-4586-89ff-75b8140db526")
+			(uuid "b1962ef1-88ae-426c-954e-9dd316e767e0")
 			(effects
 				(font
 					(size 1 1)
@@ -2712,7 +2712,7 @@
 			)
 		)
 		(path "/e5d9bb41-8431-49bb-ac75-1c192c8cac84")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "transistor-tester.kicad_sch")
 		(pad "" np_thru_hole circle
 			(at 0 12 180)
@@ -2809,7 +2809,7 @@
 		(property "Reference" "D2"
 			(at 5.28 -0.87 90)
 			(layer "B.SilkS")
-			(uuid "f0ee023b-f9ef-4642-ad72-e84a10531b97")
+			(uuid "adeaa2da-d3ab-48d4-8aed-b4428f3bf8a1")
 			(effects
 				(font
 					(size 1 1)
@@ -2817,10 +2817,10 @@
 				)
 			)
 		)
-		(property "Value" "E-101"
+		(property "Value" "E-301"
 			(at 5.08 0.87 90)
 			(layer "B.SilkS")
-			(uuid "9981310a-19ac-487f-b56d-b1d55bd575d3")
+			(uuid "3e834368-a362-4eda-8828-90cf0ce60a00")
 			(effects
 				(font
 					(size 1 1)
@@ -2828,12 +2828,12 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/Semitec/E-301?qs=wgO0AD0o1vvnCxICGY3ceQ%3D%3D"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "dac96337-4b39-4cc7-8604-7b9f56160d5d")
+			(uuid "36f9de3e-9ddb-4a71-aef0-507d4524e98a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2846,7 +2846,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5281056d-4683-47f6-bbdf-76a8d4b754b5")
+			(uuid "cd7143d9-f806-403e-afa1-364c2fe3d30d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2856,7 +2856,7 @@
 		)
 		(property ki_fp_filters "TO-???* D_*")
 		(path "/56f118aa-55ff-4b88-9c27-5641b9cf4f84")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "transistor-tester.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -3203,7 +3203,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/a7708b6e-43d6-4d8b-b86b-7b430571dc69")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "transistor-tester.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -3466,7 +3466,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/60a8c863-b4fe-450f-9d46-2efd7de0e94f")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "transistor-tester.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -3683,7 +3683,7 @@
 			(at 1.27 -2.96 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "3182af99-ec19-4d70-9a8f-314d17c912d0")
+			(uuid "7b09050f-b00e-4852-98e0-f60e8e71f87a")
 			(effects
 				(font
 					(size 1 1)
@@ -3694,7 +3694,7 @@
 		(property "Value" "Lo Side LED"
 			(at 1.27 2.96 0)
 			(layer "F.Fab")
-			(uuid "280dd4a3-27e0-46a4-baec-9c678c73acd3")
+			(uuid "6c4f0b29-6f4c-42e9-9261-4f3b2e4994a8")
 			(effects
 				(font
 					(size 1 1)
@@ -3702,11 +3702,11 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.amazon.com/dp/B073QMYKDM?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_10"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "52b80eab-6d65-40ff-a5bb-c8b280c65041")
+			(uuid "7432133c-8120-4f37-97ae-ac130b8b2101")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3718,7 +3718,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5a655abf-e356-4768-90b6-c690d34f56a2")
+			(uuid "8a4284a0-3c06-4d1d-b8a9-fb5440f2c346")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3728,7 +3728,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/839d9221-1f85-42a7-ae72-934be529fce3")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "transistor-tester.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -3923,7 +3923,7 @@
 			(at 2.54 -4.27 0)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "40371b62-9813-42aa-9097-2e8793fe3d1d")
+			(uuid "06d00a00-da45-4709-82c8-9f8d257a6f4f")
 			(effects
 				(font
 					(size 1 1)
@@ -3935,7 +3935,7 @@
 			(at 2.74 7.1 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ee6643b0-40ca-4300-876d-77351b36d452")
+			(uuid "6fd98084-bb1c-43b6-9869-ae1d620e6d95")
 			(effects
 				(font
 					(size 1 1)
@@ -3947,7 +3947,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f1b36cef-821b-4e5c-89f4-8a57f4cb3d93")
+			(uuid "0750ebe9-9242-44f5-a232-91e2b89d2abd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3955,11 +3955,11 @@
 				)
 			)
 		)
-		(property "Description" "Socket Terminal for TO-220 push-connect"
+		(property "Description" "Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "dedda6d3-fc62-48d0-b6e2-b96427be996d")
+			(uuid "eb4219fd-30a6-4933-92ec-c6fe98c7c2b2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3969,7 +3969,7 @@
 		)
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/9de09f3e-ab0b-41b8-a273-652c4df257ca")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "transistor-tester.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -4207,7 +4207,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "522da955-4524-4ee3-996c-df2b81f7a09e")
+			(uuid "7ec55952-b0fc-479a-b6eb-61683b513d85")
 			(effects
 				(font
 					(size 1 1)
@@ -4220,7 +4220,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "12f03d40-8530-4ff8-a50a-a1d5745e9c2c")
+			(uuid "71e6b44a-2fd4-42ae-99ad-a74e85510853")
 			(effects
 				(font
 					(size 1 1)
@@ -4229,12 +4229,12 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.amazon.com/dp/B08R9P9DFC?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1&th=1"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9bab9bb1-8ec3-4129-8c63-20fa3e0840d4")
+			(uuid "3246ab0c-d077-4481-b2fe-0b3b9d4a7506")
 			(effects
 				(font
 					(size 1 1)
@@ -4247,7 +4247,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8c964b5d-e6a3-44d3-8d83-af9e53e9f581")
+			(uuid "30742444-9f1d-409a-a0da-a523e46dcef0")
 			(effects
 				(font
 					(size 1 1)
@@ -4256,7 +4256,7 @@
 			)
 		)
 		(path "/be428826-12de-4c80-b594-750be450590d")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "transistor-tester.kicad_sch")
 		(pad "" np_thru_hole circle
 			(at 0 12)
